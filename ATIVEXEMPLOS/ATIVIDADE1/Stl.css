@@ -1,0 +1,50 @@
+a {
+    font-family: Times New Roman;
+    color: white;
+    text-decoration: none;
+}
+
+
+img{
+   
+    width: 300px; 
+}
+
+body{
+    background-image:url(dogeback.jpg);
+    background-color:white;
+    font-size: large;
+}
+
+p{
+    background-color: mediumblue;
+    color: palegreen;
+    font-size: large;
+    font-family: Times New Roman;
+    border: blue;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 40px;
+
+}
+
+h1,
+h2 {
+    color:blue;
+}
+
+h1{
+    font-size: 65pt;
+}
+
+h2{
+    font-size: 40pt;
+    text-decoration: solid;
+}
+
+ul{
+    font-size: 15pt;
+    font-family: Times New Roman;
+    color: black;
+}
